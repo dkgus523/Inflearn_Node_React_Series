@@ -11,12 +11,16 @@
     "author": "a-hyeon",
     "license": "ISC",
     "dependencies": {
+        "axios": "^0.25.0",
         "bcrypt": "^5.0.1",
         "body-parser": "^1.19.1",
         "cookie-parser": "^1.4.6",
+        "create-react-app": "^5.0.0",
         "express": "^4.17.2",
+        "http-proxy-middleware": "^2.0.2",
         "jsonwebtoken": "^8.5.1",
-        "mongoose": "^5.8.9"
+        "mongoose": "^5.8.9",
+        "react-router-dom": "^6.2.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.15"
